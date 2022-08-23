@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainqari&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainqari" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@muhamma11671476" target="blank"><img src="https://img.shields.io/twitter/follow/@muhamma11671476?logo=twitter&style=for-the-badge" alt="@muhamma11671476" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@Muhamma11671476" target="blank"><img src="https://img.shields.io/twitter/follow/@Muhamma11671476?logo=twitter&style=for-the-badge" alt="@Muhamma11671476" /></a> </p>
 
 - 🌱 I’m currently learning **Web And Mobile App Development**
 
