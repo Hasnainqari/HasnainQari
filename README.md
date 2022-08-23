@@ -19,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@Hasnainqari2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@muhamma11671476" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hasnain-qari-92728b242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasnain-qari-92728b242" height="30" width="40" /></a>
 <a href="https://fb.com/hasnain.qari.35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasnain.qari.35" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCjfa_44zaYQgHHHJ3Q2XjNA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjfa_44zayqghhhj3q2xjna" height="30" width="40" /></a>
