@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web And Mobile App Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hasnainqari/HasnainQari](https://github.com/Hasnainqari/HasnainQari)
+- 👨‍💻 All of my projects are available at [https://hasnainqariportfolio.netlify.app](https://hasnainqariportfolio.netlify.app)
 
 - 💬 Ask me about **Websites, Android App**
 
