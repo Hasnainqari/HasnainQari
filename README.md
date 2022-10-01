@@ -23,7 +23,7 @@ No![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u
 <a href="https://fb.com/hasnain.qari.35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasnain.qari.35" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCjfa_44zaYQgHHHJ3Q2XjNA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjfa_44zayqghhhj3q2xjna" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hasnain.qari.35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasnain.qari.35" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasnain.qari.35" height="30" width="40" /></a>
+<a href="https://twitter.com/Muhamma11671476/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamma11671476" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
