@@ -33,7 +33,7 @@
 
 <hr />
 
-<!--  ### RealTime Github Stats 📈
+### RealTime Github Stats 📈
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainqari&show_icons=true&locale=en" alt="hasnainqari" /></p>
 <hr />
 
@@ -43,7 +43,7 @@
 
 ### Dynamic Streak 🚀
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainqari&" alt="hasnainqari" /></p>
-<hr /> -->
+<hr />
 
 ### If You came here to visit my github profile so please ⭐ ALL of my Repositories!
 ### Thank You 🥳 Very Much!!👍!!
