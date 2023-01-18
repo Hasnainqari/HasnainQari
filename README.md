@@ -45,7 +45,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainqari&" alt="hasnainqari" /></p>
 <hr />
 
-<!-- ### If You came here to visit my github profile so please ⭐ ALL of my Repositories! -->
+### If You came here to visit my github profile so please ⭐ ALL of my Repositories!
 <!-- ### Thank You 🥳 Very Much!!👍!! -->
 <!-- ### #Developer  #Coding -->
 <hr />
