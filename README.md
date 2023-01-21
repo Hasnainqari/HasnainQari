@@ -5,7 +5,7 @@
 <hr />
 🌱 I’m currently learning **Mobile Application Development** In SMIT
 
-- 👨‍💻 All of my projects are available at [https://hasnainqarifolio.netlify.app](https://hasnainqarifolio.netlify.app)
+- 👨‍💻 All of my projects are available this 🔗 [https://hasnainqarifolio.netlify.app](https://hasnainqarifolio.netlify.app)
 
 - 💬 Ask me about **Websites & MobileApps**
 
