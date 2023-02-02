@@ -10,6 +10,7 @@
 - 💬 Ask me about **Websites & MobileApps**
 
 - 📫 How to reach me **qarihasnain43@gmail.com**
+- 📫 How to reach me **hasnainqari036@gmail.com**
 <hr />
 <h3 align="left">Connect With me:</h3>
 <p align="left">
