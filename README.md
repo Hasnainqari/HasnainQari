@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainqari&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainqari" /> </p>
 <hr />
 <!-- 🌱 I’m currently learning **Mobile Application Development** In SMIT -->
-Joined Github **1** years ago 🥳
+Joined Github 1 year ago 🥳
 
 - 👨‍💻 All of my projects are available at this 🔗 [https://hasnainqarifolio.netlify.app](https://hasnainqarifolio.netlify.app)
 
