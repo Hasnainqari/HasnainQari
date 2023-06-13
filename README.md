@@ -7,7 +7,7 @@
 <hr />
 😎 I'm Frontend Developer & React Native Developer 
 <hr />
-Joined Github 1 year ago 🥳
+Joined Github 27 Feb 2022 - Present🥳
 
 - 👨‍💻 All of my projects are available at this 🔗 [https://hasnainqarifolio.netlify.app](https://hasnainqarifolio.netlify.app)
 
