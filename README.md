@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)].
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1  align="center">Portfolio 🔗https://hasnainqarifolio.netlify.app</h1>
 <h1 align="center">🤗Hello, 👋I'm Hasnain Qari</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=700&lines=This+is+Hasnain Qari;Junior+Frontend+Developer;Junior+JavaScript+Developer;React-Native+UI+Developer" alt="Typing SVG" /></a>
