@@ -9,7 +9,7 @@
 <hr />
 Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 
-- 👨‍💻 All of my projects are available at this 🔗 [https://hasnainqarifolio.netlify.app](https://hasnainqarifolio.netlify.app)
+- 👨‍💻 All of my projects are available at this 🔗 [https://hasnainqari-folio.netlify.app](https://hasnainqari-folio.netlify.app)
 
 - 💬 Ask me about **Websites & MobileApps**
 
