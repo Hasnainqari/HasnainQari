@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQFHX45JO7Zp8g/profile-displaybackgroundimage-shrink_350_1400/0/1697499645853?e=1703116800&v=beta&t=pZSi-itMn93SE6i4zjzAHvULhxkVBBaZgdAdT4_XefY)
 <h1  align="center">Portfolio 🔗https://hasnainqari-folio.netlify.app</h1>
 <h1 align="center">🤗Hello, 👋I'm Hasnain Qari</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=700&lines=This+is+Hasnain Qari;Junior+Frontend+Developer;Junior+JavaScript+Developer;React-Native+UI+Developer" alt="Typing SVG" /></a>
