@@ -1,18 +1,13 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQFHX45JO7Zp8g/profile-displaybackgroundimage-shrink_350_1400/0/1697499645853?e=1703116800&v=beta&t=pZSi-itMn93SE6i4zjzAHvULhxkVBBaZgdAdT4_XefY)
 <h1  align="center">Portfolio 🔗https://hasnainqari-folio.netlify.app</h1>
-<h1 align="center">🤗Hello, 👋I'm Hasnain Qari</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=700&lines=This+is+Hasnain Qari;Junior+Frontend+Developer;Junior+JavaScript+Developer;React-Native+UI+Developer" alt="Typing SVG" /></a>
+<!-- <h1 align="center">🤗Hello, 👋I'm Hasnain Qari</h1> -->
+<!-- animation start  -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Hasnain+Qari%E2%9C%A8;%E2%9C%A8Full+Stack+Developer%E2%9C%A8;%E2%9C%A8Frontend+Developer%E2%9C%A8;%E2%9C%A8React-Native+UI+Developer%E2%9C%A8)](https://git.io/typing-svg)
+<!-- animation end  -->
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=700&lines=This+is+Hasnain Qari;Junior+Frontend+Developer;Junior+JavaScript+Developer;React-Native+UI+Developer" alt="Typing SVG" /></a> -->
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainqari&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainqari" /> </p>
 <hr />
-<!-- animation start  -->
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Hasnain+Qari%E2%9C%A8;%E2%9C%A8Full+Stack+Developer%E2%9C%A8;%E2%9C%A8Frontend+Developer%E2%9C%A8;%E2%9C%A8React-Native+UI+Developer%E2%9C%A8)](https://git.io/typing-svg)
-
-
-<!-- animation end  -->
-
 😎 I'm Frontend Developer & React Native Developer 
 <hr />
 Joined Github <b> Feb 27, 2022 - Present </b> 🥳
