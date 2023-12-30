@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQFHX45JO7Zp8g/profile-displaybackgroundimage-shrink_350_1400/0/1697499646537?e=1708560000&v=beta&t=yVwGI3ZrnC9qrQhzyk24UlOSQU2X8SLHUpHq3heoal0)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQFMKm_ApfzH6A/profile-displaybackgroundimage-shrink_350_1400/0/1703871751347?e=1709164800&v=beta&t=c0sOcMgNNFVxVm6xbdCfzfzS7t0XyOm5hKGZK9Mzimo)
 <h1  align="center">Portfolio 🔗https://hasnainqari-folio.netlify.app</h1>
 <!-- <h1 align="center">🤗Hello, 👋I'm Hasnain Qari</h1> -->
 <!-- animation start  -->
