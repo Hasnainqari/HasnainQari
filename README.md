@@ -9,14 +9,14 @@
 
 <!-- animation end  -->
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=700&lines=This+is+Hasnain Qari;Junior+Frontend+Developer;Junior+JavaScript+Developer;React-Native+UI+Developer" alt="Typing SVG" /></a> -->
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainqari&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainqari" /> </p>
 <hr />
 😎 I'm Frontend Developer & React Native Developer 
 <hr />
 Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 
-- 👨‍💻 All of my projects are available at this 🔗 [https://hasnainqari-folio.netlify.app](https://hasnainqari-folio.netlify.app)
+- 👨‍💻 All of my projects are available at this 🔗 [Hasnain Qari](https://hasnainqari-folio.netlify.app)
 
 - 💬 Ask me about **Websites & MobileApps**
 
@@ -44,7 +44,7 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Exress"></code> &nbsp; &nbsp;
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"></code> &nbsp; &nbsp;
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"></code> &nbsp; &nbsp;
-<!-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" alt="nextjs"></code> &nbsp; &nbsp; -->
+<code><img height="32" src="https://soshace.com/wp-content/uploads/2019/10/Getting-Started-with-NextJS.jpg" alt="nextjs"></code> &nbsp; &nbsp;
 
 <hr />
 
