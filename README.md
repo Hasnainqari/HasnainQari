@@ -63,9 +63,3 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 ### If You came here to visit my github profile so please ⭐ ALL of my Repositories!
 ### Thank You 🥳 Very Much❤️
 <hr />
-githubUsers.sort(_.followers)
-           .filter(_.location == 'Pakistan') 
-           .take(1000)
-           .sort(_.contributions)
-           .take(256)
-
