@@ -47,10 +47,20 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 <code><img height="32" src="https://soshace.com/wp-content/uploads/2019/10/Getting-Started-with-NextJS.jpg" alt="nextjs"></code> &nbsp; &nbsp;
 
 <hr />
+## GitHub over time
 
+[![Hasnainqari's GitHub | Stats](https://stats.quine.sh/Hasnainqari/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hasnainqari)
+
+<hr />
+## Languages over time
+
+[![Hasnainqari GitHub | Languages Over Time](https://stats.quine.sh/Hasnainqari/languages-over-time?theme=dark)](https://quine.sh)
+
+<hr />
 ## GitHub Graph
 [![Hasnainqari github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hasnainqari&theme=xcode)](https://github.com/Hasnainqari/HasnainQari)
 
+<hr />
 ### RealTime Github Stats 📈
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainqari&show_icons=true&locale=en" alt="hasnainqari" /></p>
 <hr />
