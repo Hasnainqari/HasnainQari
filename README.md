@@ -49,7 +49,7 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 <hr />
 
 ## GitHub Graph
-[![Hasnainqari github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hasnainqari&theme=github-compact	)](https://github.com/Hasnainqari/github-readme-activity-graph)
+[![Hasnainqari github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hasnainqari&theme=github-compact	)](https://github.com/Hasnainqari/HasnainQari)
 
 ### RealTime Github Stats 📈
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainqari&show_icons=true&locale=en" alt="hasnainqari" /></p>
