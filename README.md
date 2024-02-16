@@ -7,6 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Hasnain+Qari%E2%9C%A8;%E2%9C%A8Passionate+Full+Stack+Developer%E2%9C%A8;%E2%9C%A8Frontent+Developer+@+TechMatter+(Pvt)+ltd%E2%9C%A8;%E2%9C%A8Rect-Native+UI+Developer%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Software+Engineer%E2%9C%A8)](https://git.io/typing-svg)
 
+[![committers.top badge](https://user-badge.committers.top/pakistan/Hasnainqari.svg)](https://user-badge.committers.top/pakistan/Hasnainqari)
+
 <!-- animation end  -->
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=700&lines=This+is+Hasnain Qari;Junior+Frontend+Developer;Junior+JavaScript+Developer;React-Native+UI+Developer" alt="Typing SVG" /></a> -->
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
