@@ -57,6 +57,9 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 ### Languages Over Time
 [![Hasnainqari's GitHub | Languages Over Time](https://stats.quine.sh/Hasnainqari/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hasnainqari)
 
+### Github Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hasnainqari&theme=monokai)](https://github.com/Hasnainqari/github-profile-trophy)
+
 ### Github Graph
 [![Hasnainqari github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hasnainqari&theme=xcode)](https://github.com/Hasnainqari/HasnainQari)
 
@@ -72,7 +75,6 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainqari&" alt="hasnainqari" /></p>
 <hr />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hasnainqari&theme=monokai)](https://github.com/Hasnainqari/github-profile-trophy)
 
 
 ### If You came here to visit my github profile so please ⭐ ALL of my Repositories!
