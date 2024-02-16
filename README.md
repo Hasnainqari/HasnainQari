@@ -72,6 +72,8 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainqari&" alt="hasnainqari" /></p>
 <hr />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hasnainqari)](https://github.com/Hasnainqari/github-profile-trophy)
+
 ### If You came here to visit my github profile so please ⭐ ALL of my Repositories!
 ### Thank You 🥳 Very Much❤️
 <hr />
