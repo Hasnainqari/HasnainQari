@@ -9,6 +9,10 @@
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/Hasnainqari.svg)](https://user-badge.committers.top/pakistan/Hasnainqari)
 
+<h3> 👱 Visitors count </h3>
+<img src="https://profile-counter.glitch.me/20sw084/count.svg" />
+<hr />
+
 <!-- animation end  -->
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=700&lines=This+is+Hasnain Qari;Junior+Frontend+Developer;Junior+JavaScript+Developer;React-Native+UI+Developer" alt="Typing SVG" /></a> -->
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
