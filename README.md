@@ -10,7 +10,7 @@
 [![committers.top badge](https://user-badge.committers.top/pakistan/Hasnainqari.svg)](https://user-badge.committers.top/pakistan/Hasnainqari)
 
 <h3> 👱 Visitors count </h3>
-<img src="https://profile-counter.glitch.me/20sw084/count.svg" />
+<img src="https://profile-counter.glitch.me/hasnainqari/count.svg" />
 <hr />
 
 <!-- animation end  -->
