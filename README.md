@@ -2,7 +2,7 @@
   <img src="https://media.licdn.com/dms/image/D4D16AQFMKm_ApfzH6A/profile-displaybackgroundimage-shrink_350_1400/0/1703871751347?e=1709164800&v=beta&t=c0sOcMgNNFVxVm6xbdCfzfzS7t0XyOm5hKGZK9Mzimo" alt="Your Image Description">
 </p>
 <!-- <h1  align="center">Portfolio 🔗</h1> -->
-<h1 align="center">🤗Hello, 👋I'm <a href="https://hasnain-qari.netlify.app">Hasnain Qari</a></h1>
+<h1 align="center">🤗HeLlO, 👋I'm <a href="https://hasnain-qari.netlify.app">Hasnain Qari</a></h1>
 <!-- animation start  -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Hasnain+Qari%E2%9C%A8;%E2%9C%A8Passionate+Full+Stack+Developer%E2%9C%A8;%E2%9C%A8Frontent+Developer+@+TechMatter+(Pvt)+ltd%E2%9C%A8;%E2%9C%A8Rect-Native+UI+Developer%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Software+Engineer%E2%9C%A8)](https://git.io/typing-svg)
