@@ -40,7 +40,6 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 </p>
 <hr />
 <h3 align="left">Languages & Tools:</h3>
-
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code> &nbsp; &nbsp;
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>  &nbsp; &nbsp;
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"></code> &nbsp; &nbsp;
