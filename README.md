@@ -7,10 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Hasnain+Qari%E2%9C%A8;%E2%9C%A8Passionate+Full+Stack+Developer%E2%9C%A8;%E2%9C%A8Frontent+Developer+@+TechMatter+(Pvt)+ltd%E2%9C%A8;%E2%9C%A8Rect-Native+UI+Developer%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Software+Engineer%E2%9C%A8)](https://git.io/typing-svg)
 
-<h3> 👱 Visitors count </h3>
-<img src="https://profile-counter.glitch.me/hasnainqari/count.svg" />
-<hr />
-
+<!-- <img src="https://profile-counter.glitch.me/hasnainqari/count.svg" /> -->
 <p align="center">
 <!--   <a href="https://user-badge.committers.top/pakistan/hasnainqari"><img src="https://user-badge.committers.top/pakistan/hasnainqari.svg"></a> • -->
   <img src="https://komarev.com/ghpvc/?username=hasnainqari&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainqari" />
