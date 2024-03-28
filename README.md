@@ -18,6 +18,8 @@
 </a>
 </p>
 
+<hr />
+
 <!-- <img src="https://profile-counter.glitch.me/hasnainqari/count.svg" /> -->
 <p align="center">
 <!--   <a href="https://user-badge.committers.top/pakistan/hasnainqari"><img src="https://user-badge.committers.top/pakistan/hasnainqari.svg"></a> • -->
