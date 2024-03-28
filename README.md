@@ -18,9 +18,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainqari&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainqari" /> </p>
 <!-- <hr />
 😎 I'm Frontend Developer & React Native Developer  -->
-
-
-
 <hr />
 Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 
