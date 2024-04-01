@@ -29,7 +29,7 @@
   <a href="https://github.com/sponsors/hasnainqari"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
-### If You came here to visit my github profile Follow me😎
+### If You came here to visit my github profile Follow me😎!
 <!-- animation end  -->
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=700&lines=This+is+Hasnain Qari;Junior+Frontend+Developer;Junior+JavaScript+Developer;React-Native+UI+Developer" alt="Typing SVG" /></a> -->
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
