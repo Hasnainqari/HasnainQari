@@ -2,7 +2,7 @@
   <img src="https://media.licdn.com/dms/image/D4D16AQFMKm_ApfzH6A/profile-displaybackgroundimage-shrink_350_1400/0/1703871751347?e=1715212800&v=beta&t=QSjNI-GXbrX6U7_gyu1vuYIWniaX-Pst4O4likZFQRo" alt="Banner">
 </p>
 <!-- <h1  align="center">Portfolio 🔗</h1> -->
-<h1 align="center">🤗Hello, 👋I'm <a href="https://hasnain-qari.netlify.app">Hasnain Qari</a></h1>
+<h1 align="center">🤗Hello 👋I'm <a href="https://hasnain-qari.netlify.app">Hasnain Qari</a></h1>
 <!-- animation start  -->
 
 <!-- <p align="center">
