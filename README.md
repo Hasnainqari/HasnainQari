@@ -7,7 +7,6 @@
 <!-- <p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Hasnain+Qari%E2%9C%A8;%E2%9C%A8Passionate+Full+Stack+Developer%E2%9C%A8;%E2%9C%A8Frontent+Developer+@+TechMatter+(Pvt)+ltd%E2%9C%A8;%E2%9C%A8Rect-Native+UI+Developer%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Software+Engineer%E2%9C%A8)](https://git.io/typing-svg)
 </p>-->
-
 <p align="center">
 <a><img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&amp;rid=giphy.gif&amp;ct=s" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px; left: 0px; top: 0px;"></a>&nbsp
 <a>
