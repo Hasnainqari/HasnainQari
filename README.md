@@ -33,7 +33,7 @@
 <hr />
 Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 
-- 👨‍💻 All of my projects are available at this 🔗 [Hasnain Qari](https://hasnain-qari.netlify.app)
+- 👨‍💻 All of my projects are available at this 🔗 [Website](https://hasnain-qari.netlify.app)
 
 - 💬 Ask me about **Websites & MobileApps**
 
