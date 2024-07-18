@@ -82,9 +82,9 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainqari&show_icons=true&locale=en" alt="hasnainqari" /></p>
 <hr /> -->
 
-<!-- ### Languages Used 
+### Languages Used 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainqari&show_icons=true&locale=en&layout=compact" alt="hasnainqari" /></p>
-<hr /> -->
+<hr />
 
 ### Dynamic Streak 🚀
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainqari&" alt="hasnainqari" /></p>
