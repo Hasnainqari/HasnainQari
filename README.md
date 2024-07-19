@@ -38,7 +38,7 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 - 💬 Ask me about **Websites & MobileApps**
 
 - 📫 How to reach me **qarihasnain43@gmail.com**
-- 📫 How to reach me **03243343722**
+- 📫 How to reach me **tel:03243343722**
 <hr />
 <h3 align="left">Connect With me:</h3>
 <p align="left">
