@@ -1,8 +1,3 @@
-<!--<p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQFMKm_ApfzH6A/profile-displaybackgroundimage-shrink_350_1400/0/1703871751347?e=1721260800&v=beta&t=ah4GA_XOJWD2YVpwOpVOuAQLvIvalYAN7ePZtRNFfL8" alt="Banner">
-</p>-->
-<!-- <h1  align="center">Portfolio 🔗</h1> -->
-
 <h1 align="center">🤗Hello 👋I'm <a href="https://hasnain-qari.netlify.app">Hasnain Qari</a></h1>
 <!-- animation start  -->
 <!-- <p align="center">
