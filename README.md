@@ -11,7 +11,6 @@
 </p>
 <hr />
 
-
 <p align="center">
 <!--   <a href="https://user-badge.committers.top/pakistan/hasnainqari"><img src="https://user-badge.committers.top/pakistan/hasnainqari.svg"></a> • -->
 
