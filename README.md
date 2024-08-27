@@ -19,8 +19,6 @@
 
 ### If You came here to visit my github profile Follow me😎!
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
-<!-- <hr />
-😎 I'm Frontend Developer & React Native Developer  -->
 <hr />
 Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 
