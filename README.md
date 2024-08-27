@@ -10,7 +10,9 @@
 <p align="center">
 <!--   <a href="https://user-badge.committers.top/pakistan/hasnainqari"><img src="https://user-badge.committers.top/pakistan/hasnainqari.svg"></a> • -->
 
-[![Download CV](https://img.shields.io/badge/Download%20CV-red)](https://drive.google.com/file/d/1EIiyigneEMaSkfLud4beVza9Gt02hQO8/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1EIiyigneEMaSkfLud4beVza9Gt02hQO8/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20CV-red" alt="Download CV">
+</a>
   <img src="https://komarev.com/ghpvc/?username=hasnainqari&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainqari" />
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/hasnainqari?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/hasnainqari?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
