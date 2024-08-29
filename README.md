@@ -55,7 +55,6 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 ### Github Over Time
 [![Hasnainqari's GitHub | Stats](https://stats.quine.sh/Hasnainqari/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hasnainqari)
 
-
 ### Languages Over Time
 [![Hasnainqari's GitHub | Languages Over Time](https://stats.quine.sh/Hasnainqari/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hasnainqari)
 
