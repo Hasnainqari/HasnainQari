@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/github/stars/hasnainqari?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
   <a href="https://github.com/sponsors/hasnainqari"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
-
 ### If You came here to visit my github profile Follow me😎!
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <hr />
