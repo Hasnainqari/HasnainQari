@@ -7,7 +7,7 @@
 </p>
 <hr />
 <p align="center">
-<!--   <a href="https://user-badge.committers.top/pakistan/hasnainqari"><img src="https://user-badge.committers.top/pakistan/hasnainqari.svg"></a> • -->
+<!--   <a href="https://user-badge.committers.top/pakistan/hasnainqari"><img src="https://user-badge.committers.top/pakistan/hasnainqari.svg"></a> -->
 
 [![Download CV](https://img.shields.io/badge/Download%20CV-red)](https://drive.google.com/file/d/1Fye1RBs5d_sgR36PQ1ZcB3cbMImSR4m1/view?usp=sharing)
   <img src="https://komarev.com/ghpvc/?username=hasnainqari&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainqari" />
