@@ -77,7 +77,13 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainqari&" alt="hasnainqari" /></p>
 <hr />
 
-### Latest Projects
+### Latest Projects 🆕🚀
+<div>
+  
+  [![Watch the video](https://img.youtube.com/vi/S-FDq5PC-Ms/hqdefault.jpg)](https://www.youtube.com/watch?v=S-FDq5PC-Ms)
+  [![Watch the video](https://img.youtube.com/vi/pJJvyHtnUyc/hqdefault.jpg)](https://www.youtube.com/watch?v=pJJvyHtnUyc)
+  [![Watch the video](https://img.youtube.com/vi/TxKFE-s7M8Q/hqdefault.jpg)](https://www.youtube.com/watch?v=TxKFE-s7M8Q)
+</div>
 
 ### If You came here to visit my github profile so give ⭐to my Repositories!
 ### Thank You 🥳 Very Much❤️
