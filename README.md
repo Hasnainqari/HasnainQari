@@ -81,7 +81,9 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 
 ### Latest Projects 🆕🚀
 <div>
-  
+  [![Watch the video](https://img.youtube.com/vi/9LYe7K7b-Fw/hqdefault.jpg)](https://www.youtube.com/watch?v=9LYe7K7b-Fw)
+  <br />
+  <br />
   [![Watch the video](https://img.youtube.com/vi/S-FDq5PC-Ms/hqdefault.jpg)](https://www.youtube.com/watch?v=S-FDq5PC-Ms)
   <br />
   <br />
