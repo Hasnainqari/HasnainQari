@@ -75,25 +75,39 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainqari&show_icons=true&locale=en&layout=compact" alt="hasnainqari" /></p>
 <hr />
 
+
 ### Dynamic Streak 🚀
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainqari&" alt="hasnainqari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainqari" alt="hasnainqari" /></p>
 <hr />
 
 ### Latest Projects 🆕🚀
-<div>
-  
-  [![Watch the video](https://img.youtube.com/vi/9LYe7K7b-Fw/hqdefault.jpg)](https://www.youtube.com/watch?v=9LYe7K7b-Fw)
-  <br />
-  <br />
-  [![Watch the video](https://img.youtube.com/vi/S-FDq5PC-Ms/hqdefault.jpg)](https://www.youtube.com/watch?v=S-FDq5PC-Ms)
-  <br />
-  <br />
-  [![Watch the video](https://img.youtube.com/vi/pJJvyHtnUyc/hqdefault.jpg)](https://www.youtube.com/watch?v=pJJvyHtnUyc)
-  <br />
-  <br />
-  [![Watch the video](https://img.youtube.com/vi/TxKFE-s7M8Q/hqdefault.jpg)](https://www.youtube.com/watch?v=TxKFE-s7M8Q)
-  
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=9LYe7K7b-Fw">
+        <img src="https://img.youtube.com/vi/9LYe7K7b-Fw/hqdefault.jpg" alt="Watch the video" width="360"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=S-FDq5PC-Ms">
+        <img src="https://img.youtube.com/vi/S-FDq5PC-Ms/hqdefault.jpg" alt="Watch the video" width="360"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=pJJvyHtnUyc">
+        <img src="https://img.youtube.com/vi/pJJvyHtnUyc/hqdefault.jpg" alt="Watch the video" width="360"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=TxKFE-s7M8Q">
+        <img src="https://img.youtube.com/vi/TxKFE-s7M8Q/hqdefault.jpg" alt="Watch the video" width="360"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ### If You came here to visit my github profile so give ⭐to my Repositories!
 ### Thank You 🥳 Very Much❤️
