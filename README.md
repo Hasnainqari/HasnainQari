@@ -52,31 +52,6 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"></code> &nbsp; &nbsp;
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"></code> &nbsp; &nbsp;
 <code><img height="32" src="https://soshace.com/wp-content/uploads/2019/10/Getting-Started-with-NextJS.jpg" alt="nextjs"></code> &nbsp; &nbsp;
-
-<hr />
-
-### Github Over Time
-[![Hasnainqari's GitHub | Stats](https://stats.quine.sh/Hasnainqari/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hasnainqari)
-
-### Languages Over Time
-[![Hasnainqari's GitHub | Languages Over Time](https://stats.quine.sh/Hasnainqari/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hasnainqari)
-
-### Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hasnainqari&theme=monokai)](https://github.com/Hasnainqari/github-profile-trophy)
-
-### Github Graph
-[![Hasnainqari github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hasnainqari&theme=xcode)](https://github.com/Hasnainqari/HasnainQari)
-
-### RealTime Github Stats 📈
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainqari&show_icons=true&locale=en" alt="hasnainqari" /></p>
-<hr />
-
-### Languages Used 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainqari&show_icons=true&locale=en&layout=compact" alt="hasnainqari" /></p>
-<hr />
-
-### Dynamic Streak 🚀
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainqari&" alt="hasnainqari" /></p>
 <hr />
 
 ### Latest Projects 🆕🚀
@@ -106,6 +81,30 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
     </td>
   </tr>
 </table>
+<hr />
+
+### Github Over Time
+[![Hasnainqari's GitHub | Stats](https://stats.quine.sh/Hasnainqari/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hasnainqari)
+
+### Languages Over Time
+[![Hasnainqari's GitHub | Languages Over Time](https://stats.quine.sh/Hasnainqari/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hasnainqari)
+
+### Github Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hasnainqari&theme=monokai)](https://github.com/Hasnainqari/github-profile-trophy)
+
+### Github Graph
+[![Hasnainqari github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hasnainqari&theme=xcode)](https://github.com/Hasnainqari/HasnainQari)
+
+### RealTime Github Stats 📈
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainqari&show_icons=true&locale=en" alt="hasnainqari" /></p>
+<hr />
+
+### Languages Used 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainqari&show_icons=true&locale=en&layout=compact" alt="hasnainqari" /></p>
+<hr />
+
+### Dynamic Streak 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainqari&" alt="hasnainqari" /></p>
 <hr />
 
 ### If You came here to visit my github profile so give ⭐to my Repositories!
