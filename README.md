@@ -24,7 +24,7 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 
 - 👨‍💻 All of my projects are available at this 🔗 [Website](https://hasnain-qari.netlify.app)
 
-- 💬 Ask me about **Websites & MobileApps**
+- 💬 Ask me about **Websites
 
 - 📫 How to reach me **qarihasnain43@gmail.com**
 - 📫 How to reach me **hasnainqari036@gmail.com**
