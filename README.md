@@ -26,7 +26,6 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 
 - 💬 Ask me about **Websites
 
-- 📫 How to reach me **qarihasnain43@gmail.com**
 - 📫 How to reach me **hasnainqari036@gmail.com**
 <hr />
 <h3 align="left">Connect With me:</h3>
