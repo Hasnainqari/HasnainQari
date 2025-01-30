@@ -102,7 +102,7 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 <hr />
 
 ### Dynamic Streak 🚀
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainqari&" alt="hasnainqari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainqari" alt="hasnainqari" /></p>
 <hr />
 
 ### If You came here to visit my github profile so give ⭐to my Repositories!
