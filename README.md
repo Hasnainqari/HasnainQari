@@ -101,9 +101,9 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainqari&show_icons=true&locale=en&layout=compact" alt="hasnainqari" /></p>
 <hr />
 
-### Dynamic Streak 🚀
+<!--### Dynamic Streak 🚀
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainqari" alt="hasnainqari" /></p>
-<hr />
+<hr /> -->
 
 ### If You came here to visit my github profile so give ⭐to my Repositories!
 ### Thank You 🥳 Very Much❤️
