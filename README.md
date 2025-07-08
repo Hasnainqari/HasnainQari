@@ -39,7 +39,7 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 
 </p>
 <hr />
-<!-- <h3 align="left">Languages & Tools:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code> &nbsp; &nbsp;
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>  &nbsp; &nbsp;
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"></code> &nbsp; &nbsp;
@@ -50,7 +50,7 @@ Joined Github <b> Feb 27, 2022 - Present </b> 🥳
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"></code> &nbsp; &nbsp;
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"></code> &nbsp; &nbsp;
 <code><img height="32" src="https://soshace.com/wp-content/uploads/2019/10/Getting-Started-with-NextJS.jpg" alt="nextjs"></code> &nbsp; &nbsp;
-<hr /> -->
+<hr />
 
 ### Latest Projects 🆕🚀
 <table>
